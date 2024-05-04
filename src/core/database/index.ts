@@ -1,0 +1,1 @@
+export { diagnosticMetrics } from './database'
